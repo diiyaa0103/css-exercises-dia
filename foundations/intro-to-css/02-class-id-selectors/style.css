@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.small-text {
+    background-color: #EF8490;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.third-element{
+    font-size: 24px;
+}
+
+#second-elem{
+    color: rgb(94, 163, 228);
+    font-size: 36px;
+}
+
+#fourth-elem{
+    background-color: rgb(134, 255, 93);
+    font-size: 24px;
+    font-weight: bold;
+}
